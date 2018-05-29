@@ -44,11 +44,9 @@
   "main": "./dist/caman.full.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/meltingice/CamanJS.git"
+    "url": "http://github.com/Aerostrat/CamanJS.git"
   },
   "dependencies": {
-    "canvas": "*",
-    "fibers": "*"
   },
   "devDependencies": {
     "coffee-script": ">= 1.6.1",
